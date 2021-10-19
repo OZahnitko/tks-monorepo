@@ -4,3 +4,6 @@
 [submodule "packages/tks-component-library"]
 	path = packages/tks-component-library
 	url = git@github.com:OZahnitko/tks-component-library.git
+[submodule "projects/tks-game-guides"]
+	path = projects/tks-game-guides
+	url = git@github.com:OZahnitko/tks-game-guides.git
