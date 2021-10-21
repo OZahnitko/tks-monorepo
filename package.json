@@ -15,6 +15,9 @@
   "scripts": {
     "bootstrap": "yarn lerna bootstrap"
   },
+  "dependencies": {
+    "styled-components": "^5.3.3"
+  },
   "devDependencies": {
     "lerna": "^4.0.0"
   }
